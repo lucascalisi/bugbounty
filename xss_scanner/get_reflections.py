@@ -98,7 +98,6 @@ def check_reflection_form(forms, random_string, url):
     for form in forms:
         form_details = get_form_details(form)
         content = submit_form(form_details, url, random_string).content.decode()
-        print(content)
         if random_string in content:
             context = detect_context(random_string, content)
             form_details['context'] = context
