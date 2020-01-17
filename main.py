@@ -1,5 +1,5 @@
-import url_scan_xss
-import url_discover
+from xss_scanner import url_scan_xss
+from webscraper import url_discover
 import multiprocessing as mp
 import sys
 

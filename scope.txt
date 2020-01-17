@@ -1,3 +1,1 @@
-ford.com
-*.ford.com
-www.ford.com
+*.*

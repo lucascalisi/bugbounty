@@ -1,0 +1,4 @@
+https://github.com/s0md3v/XSStrike/blob/master/core/wafDetector.py
+https://security.stackexchange.com/questions/68994/principal-dom-based-xss-detect-using-python
+https://www.thepythoncode.com/article/make-a-xss-vulnerability-scanner-in-python
+https://github.com/s0md3v/AwesomeXSS
